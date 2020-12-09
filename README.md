@@ -1,2 +1,1 @@
-# code1
-demo of Heroku
+This is a simple predictive model saved on Heroku
